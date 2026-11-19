@@ -22,9 +22,8 @@ It uses only built-in macOS tools: `launchd` for scheduling, the `trash` command
 - macOS 15 (Sequoia) or newer
 
 ## Install
-
+git clone this project
 ```bash
-git clone https://github.com/The-Hieusss/disposable-downloads.git
 cd disposable-downloads
 ./install.sh
 ```
